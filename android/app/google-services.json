@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958317255406",
+    "project_id": "vivi0809-d0aa9",
+    "storage_bucket": "vivi0809-d0aa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958317255406:android:f2a31bcaf30fb1054bb1ff",
+        "android_client_info": {
+          "package_name": "com.example.triplez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDnT3jxE_8SZ6XuFRbzvJm1NzPs7Og-TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958317255406:android:ee1b5988e4c0b9fa4bb1ff",
+        "android_client_info": {
+          "package_name": "com.vivi.vivi_ride_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDnT3jxE_8SZ6XuFRbzvJm1NzPs7Og-TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
